@@ -1,9 +1,8 @@
 <?php
-    $servername = "xxx.email";
+     $servername = "xxx.email";
     $username = "xxxx";
     $password = "xxxx";
     $dbname = "DBxxxx";
-    
     
     // Create connection
     $conn = mysqli_connect($servername, $username, $password, $dbname);
