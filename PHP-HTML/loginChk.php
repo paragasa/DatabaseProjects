@@ -11,10 +11,10 @@
 	<body style = "background-color:lightblue">
     <font size='8'>MyApplications</font>
 <?php
-    $servername = "cssql.seattleu.edu";
-    $username = "pengt1";
-    $password = "Frufu2@u";
-    $dbname = "pengt1";
+    $servername = "xxx.email";
+    $username = "xxxxx";
+    $password = "xxxxxxx";
+    $dbname = "DBxxxx";
     
     // Create connection
     $conn = mysqli_connect($servername, $username, $password, $dbname);
